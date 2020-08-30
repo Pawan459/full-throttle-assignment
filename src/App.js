@@ -16,10 +16,10 @@ import "mobile.scss";
 
 export default function App() {
   return (
-    <Switch>
-      <Route path="/profile-page" component={ProfilePage} />
-      <Route path="/login-page" component={LoginPage} />
-      <Route path="/" component={LandingPage} />
-    </Switch>
+	<Switch>
+	  <Route path="/profile-page" component={ProfilePage} />
+	  <Route path="/login-page" component={LoginPage} />
+	  <Route path="/" component={LandingPage} />
+	</Switch>
   );
 }
