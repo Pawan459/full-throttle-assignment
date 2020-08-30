@@ -1,9 +1,9 @@
 # full-throttle-assignment
 
-[Demo️](https://full-throttle-lab.web.app)
+Please click here to see live [Demo️](https://full-throttle-lab.web.app)
 
 # To Run The app
-> npm install
+> npm install &&
 > npm start
 
 # Modules
